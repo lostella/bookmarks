@@ -1,5 +1,5 @@
 Complex systems:
-   [Easley and Kleinberg, Network, Crowds and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+   [Easley and Kleinberg, Networks, Crowds and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 -- [Allen B. Downey, Think Complexity](http://www.greenteapress.com/compmod/)
 
 Computational complexity:
