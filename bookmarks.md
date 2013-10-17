@@ -2,6 +2,9 @@ Complex systems:
    [Easley and Kleinberg, Network, Crowds and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 -- [Allen B. Downey, Think Complexity](http://www.greenteapress.com/compmod/)
 
+Computational complexity:
+   [Bovet, Crescenzi, Introduction to the Theory of Complexity](http://www.informatica.uniroma2.it/upload/2009/IT/bovetcrescenzi.pdf)
+
 Concurrency:
    [Allen B. Downey, The Little Book of Semaphores](http://greenteapress.com/semaphores/)
 
