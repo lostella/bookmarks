@@ -18,6 +18,7 @@ Haskell:
 Optimization:
    [Boyd and Vandenberghe, Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/)
 -- [Convex Optimization Course at Stanford](http://www.youtube.com/course?list=EC3940DD956CDF0622)
+-- [Dattorro, Convex Optimization & Euclidean distance Geometry](http://meboo.convexoptimization.com/access.html)
 
 System programming:
    [Simone Piccardi, GaPiL (italian only)](http://gapil.gnulinux.it/)
