@@ -12,5 +12,9 @@ Haskell:
    [A Gentle Introduction to Haskell 98](http://www.haskell.org/tutorial/haskell-98-tutorial.pdf)
 -- [Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 
+Optimization:
+   [Boyd, Vandenberghe, Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/)
+-- [Convex Optimization Course at Stanford](http://www.youtube.com/course?list=EC3940DD956CDF0622)
+
 System programming:
    [GaPiL (italian only)](http://gapil.gnulinux.it/)
