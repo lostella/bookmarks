@@ -21,3 +21,8 @@ Optimization:
 
 System programming:
    [Simone Piccardi, GaPiL (italian only)](http://gapil.gnulinux.it/)
+
+Version control:
+   [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
+-- [Pro Git](http://git-scm.com/book)
+   
