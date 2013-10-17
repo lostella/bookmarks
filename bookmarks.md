@@ -12,8 +12,8 @@ Graph theory:
    [graphbook](http://code.google.com/p/graphbook/)
 
 Haskell:
-   [A Gentle Introduction to Haskell 98](http://www.haskell.org/tutorial/haskell-98-tutorial.pdf)
--- [Hal Daumé III, Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
+   [Hal Daumé III, Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
+-- [A Gentle Introduction to Haskell 98](http://www.haskell.org/tutorial/haskell-98-tutorial.pdf)
 
 Optimization:
    [Boyd and Vandenberghe, Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/)
