@@ -15,6 +15,10 @@ Haskell:
    [Hal Daumé III, Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 -- [A Gentle Introduction to Haskell 98](http://www.haskell.org/tutorial/haskell-98-tutorial.pdf)
 
+Numerical Computing:
+   [Cleve Moler, Numerical Computing with MATLAB](http://www.mathworks.it/moler/index_ncm.html)
+-- [Peter J. Olver, Lecture Notes on Numerical Analysis](http://www.math.umn.edu/~olver/num.html)
+
 Optimization:
    [Boyd and Vandenberghe, Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/)
 -- [Convex Optimization Course at Stanford](http://www.youtube.com/course?list=EC3940DD956CDF0622)
