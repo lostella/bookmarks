@@ -8,6 +8,9 @@ Computational complexity:
 Concurrency:
    [Allen B. Downey, The Little Book of Semaphores](http://greenteapress.com/semaphores/)
 
+Data Analysis:
+   [Diez, Barr, Cetinkaya, OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
+
 Graph theory:
    [graphbook](http://code.google.com/p/graphbook/)
 
