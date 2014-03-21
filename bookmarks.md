@@ -36,4 +36,6 @@ System programming:
 Version control:
    [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 -- [Pro Git](http://git-scm.com/book)
+-- [A succesful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
    
