@@ -18,6 +18,9 @@ Haskell:
    [Hal Daumé III, Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 -- [A Gentle Introduction to Haskell 98](http://www.haskell.org/tutorial/haskell-98-tutorial.pdf)
 
+Mathematics (generic):
+   [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf)
+
 Numerical Computing:
    [Cleve Moler, Numerical Computing with MATLAB](http://www.mathworks.it/moler/index_ncm.html)
 -- [Peter J. Olver, Lecture Notes on Numerical Analysis](http://www.math.umn.edu/~olver/num.html)
