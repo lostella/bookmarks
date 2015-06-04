@@ -21,6 +21,10 @@ Haskell:
 Mathematics (generic):
    [''Basics of Algebra, Topology, and Differential Calculus''](http://www.cis.upenn.edu/~jean/math-basics.pdf)
 
+Mathematical writing: [Bertsekas, ''Ten simple rules for mathematical writing''](http://www.mit.edu/~dimitrib/Ten_Rules.pdf)
+-- [Paul R. Halmos, ''How to write mathematics''](http://www.matem.unam.mx/ernesto/LIBROS/Halmos-How-To-Write%20Mathematics.pdf)
+-- [Donald E. Knuth, Tracy Larrabee, Paul M. Roberts, ''Mathematical writing''](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
+
 Numerical Computing:
    [Cleve Moler, ''Numerical Computing with MATLAB''](http://www.mathworks.it/moler/index_ncm.html)
 -- [Peter J. Olver, ''Lecture Notes on Numerical Analysis''](http://www.math.umn.edu/~olver/num.html)
